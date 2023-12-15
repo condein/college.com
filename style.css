@@ -1,0 +1,30 @@
+/* *{
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+} */
+.navbar-toggler-icon {
+  width: 1em !important;
+  height: 1em !important;
+  color: white !important;
+}
+.padd {
+  padding: 0 !important;
+}
+.bg-col {
+  background-image: linear-gradient(to right top, #00e731, #00db31, #00d031, #00c431, #00b930);
+}
+
+.hero {
+  height: 160px;
+  width: 100vw;
+  /* border: 1px solid rebeccapurple; */
+ 
+ 
+}
+.vid {
+
+overflow: hidden;
+width: 100%;
+margin-top: -27ssssspx;
+}
