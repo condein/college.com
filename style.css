@@ -28,3 +28,11 @@ overflow: hidden;
 width: 100%;
 margin-top: -27ssssspx;
 }
+.second-cl {
+  width: 100vw;
+  height: 200px;
+  border: 2px solid rebeccapurple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
